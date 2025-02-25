@@ -1,6 +1,4 @@
 import pandas as pd
-import matplotlib.pyplot as plt
-import seaborn as sns
 
 def exploratory_analysis(data_path):
     """Perform exploratory data analysis on the dataset."""

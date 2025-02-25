@@ -1,5 +1,4 @@
 import pandas as pd
-import os
 
 def load_data(file_path):
     """Load dataset from given path and handle missing values."""
